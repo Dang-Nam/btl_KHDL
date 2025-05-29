@@ -1,0 +1,7 @@
+# BÀI TẬP CUỐI KÌ MÔN KHOA HỌC DỮ LIỆU
+
+# ĐẶNG PHƯƠNG NAM 
+
+# K215480106036
+
+LINK YOUTOTE: https://youtu.be/S17ZS2oySm8
