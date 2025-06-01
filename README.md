@@ -34,3 +34,6 @@ Hướng dẫn:
 
 
 LINK YOUTOTE: https://youtu.be/S17ZS2oySm8
+
+Do dữ liệu Facebook Comments Product Reviews bị lỗi ko tải được nên em đã sử dụng dữ liệu Consumer Reviews of Amazon Products để thay thế 
+
